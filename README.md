@@ -1,0 +1,1 @@
+In this project I'm expecting to apply everything I've learn so far about HTML and Git
